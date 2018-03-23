@@ -1,7 +1,8 @@
 #Hey this is projesh lets have some introduction. 
 --Working as a software developer for the last 5 years and professionally experienced 3+ years.				
 --Worked with Php and javascripts initaially but passionate to work in any platform language is just a variant 
-and i don't like to boun myself with it  i want to fly with new techmology and future technoloies.
+and i don't like to boun myself with it  i want to fly with new techmology and future technoloies. 
+Also working with python and Django framework  for the last 2 years.
 
 
 
@@ -38,5 +39,5 @@ and i don't like to boun myself with it  i want to fly with new techmology and f
 					-- Donation (Django)
 					-- Pacs system (Medical system and picture archiving with Django)
 					-- Some of other Python and Django application are with my git repo 	
-					--These are just list of my best work in production there are lot more with 							  confidentiality 
+					-- These are just list of my best work in production there are lot more with 							  confidentiality 
 			
