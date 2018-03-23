@@ -5,16 +5,16 @@ and i don't like to boun myself with it  i want to fly with new techmology and f
 
 
 
---Fields I am experience with:
-			--Python (passionate)
-			--Django (Web with python nothing better than this framework)	
-			--Javascript(Love for frontend) 
-			--AngularJs( Front end beauty can not imagine a day with Api and Angular 2) trying to get more confidendt 
-			  as they updating  there version so am i running parallelly
-			--PHP (My first and core strenght)
-			--Laravel and Codeigniter Framework(You want to live with php can not breath with these two)
-			--Slim php framewwork(I use it for Api)
-			--NodeJs( Trying to get my hands on experience so that i can survive)
+		--Fields I am experience with:
+					--Python (passionate)
+					--Django (Web with python nothing better than this framework)	
+					--Javascript(Love for frontend) 
+					--AngularJs( Front end beauty can not imagine a day with Api and Angular 2) trying to 						  get more confidendt 
+					  as they updating  there version so am i running parallelly
+					--PHP (My first and core strenght)
+					--Laravel and Codeigniter Framework(You want to live with php can not breath with these 					  two)
+					--Slim php framewwork(I use it for Api)
+					--NodeJs( Trying to get my hands on experience so that i can survive)
 			
 			
 			
