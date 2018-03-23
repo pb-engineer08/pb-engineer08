@@ -36,6 +36,7 @@ and i don't like to boun myself with it  i want to fly with new techmology and f
 					-- https://weboovr.com/ 
 					-- Doctordot (Django)
 					-- Donation (Django)
+					-- Pacs system (Medical system and picture archiving with Django)
 					-- Some of other Python and Django application are with my git repo 	
-					--These are just list of my best work in production there are lot more with confidentiality 
+					--These are just list of my best work in production there are lot more with 							  confidentiality 
 			
