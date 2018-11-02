@@ -16,7 +16,8 @@ with 3 years hands-on experience in software development life cycle and coding.P
 			
 			
 		#List of Projects I worked on:
-					   [](http://shawarmatime.com)
+					   (http://shawarmatime.com)
+					   
 					-- https://chefexpressindia.com/ 
 					-- http://queenstonstreetbooks.com/home
 					-- https://www.missingpieces.com/index/
