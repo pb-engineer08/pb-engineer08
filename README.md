@@ -27,9 +27,9 @@
 			
 # List of Projects I worked on
 
-## https://www.fitnesscr-posilovny.cz/
+### https://www.fitnesscr-posilovny.cz/
 
-## http://shawarmatime.com 
+### http://shawarmatime.com 
 
 ### https://chefexpressindia.com/ 
 
