@@ -22,6 +22,7 @@
 - Laravel and Codeigniter Framework
 
 - Slim php framewwork
+- HTML 5 (Canvas) & CSS 3
 			
 			
 			
