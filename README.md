@@ -16,3 +16,7 @@
 - Artificial Intelligence and Deep learning
 - Optimization in Convolutional Neural Network 
 - Cloud and Parallel computing
+
+# Profile 
+- Linkedin: https://www.linkedin.com/in/projesh-bhoumik-13b5a5128/
+- Stackoverflow: https://stackexchange.com/users/4344677/projesh-bhoumik?tab=accounts 
