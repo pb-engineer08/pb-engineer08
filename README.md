@@ -1,12 +1,10 @@
 
-**My name is Projesh Bhoumik** 
 
--> I am a computer science graduate,currently doing my master's in Automotive software engineering. Professionally skilled in Python and C++. Passionate in research of computer vision and artificial intelligence. 			
+**I am a computer science graduate,currently doing my master's in Automotive software engineering. Professionally skilled in Python and C++. Passionate in research of computer vision and artificial intelligence.** 			
 
 **References will provided upon request**
 
-
-# Fields I am experience with:
+# Fields I am experiencing with:
 
 - Language: Python and C++
 - Signal processing and Image data analysis
