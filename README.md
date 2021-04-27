@@ -1,8 +1,7 @@
 
+**My name is Projesh Bhoumik** 
 
-**My name is Projesh Bhoumik. Currently working as a software developemt enginner.** 
-
-- I am a computer science graduate,currently doing my master's in Automotive software engineering. Professionally skilled in Python and C++. Passionate in research of computer vision and artificial intelligence. 			
+-> I am a computer science graduate,currently doing my master's in Automotive software engineering. Professionally skilled in Python and C++. Passionate in research of computer vision and artificial intelligence. 			
 
 **References will provided upon request**
 
