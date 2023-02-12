@@ -8,9 +8,10 @@
 
 - Language: Python and C++
 - Signal processing and Image data analysis
+- Embedded system and Linux
 
 # Currently working area:
-
+- Embedded Hypervisor and Linux device driver 
 - Computer vision and Machine learning 
 - Digital image data analysis 
 - Artificial Intelligence and Deep learning
